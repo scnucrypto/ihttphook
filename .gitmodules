@@ -1,0 +1,3 @@
+[submodule "ihttphook"]
+	path = ihttphook
+	url = https://github.com/gengjf/insert_dylib.git
